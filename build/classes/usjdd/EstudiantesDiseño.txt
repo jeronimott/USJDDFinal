@@ -1,0 +1,15 @@
+cedula: 2010352401
+nombre: juan jose 
+apelli: zapata
+telefono: 258741
+modalidad de estudio: virtual
+cantidad de asignaturas: 5
+serial: 6985
+
+cedula: 4012538795
+nombre: manuel
+apelli: ojeda
+telefono: 6048752
+modalidad de estudio: presencial
+cantidad de asignaturas: 4
+serial: 1973

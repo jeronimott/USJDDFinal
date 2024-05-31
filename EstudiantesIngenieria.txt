@@ -1,0 +1,9 @@
+cedula:4442
+Nombre : fgjhfdh
+Apellido : fgdfg
+Telefono : 1654
+Numero de semestre : 5
+Promedio : 2.0
+Serial : 1548dsf
+
+

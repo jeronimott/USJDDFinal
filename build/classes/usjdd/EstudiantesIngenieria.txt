@@ -1,0 +1,15 @@
+cedula: 1020104352
+nombre: jeronimo
+apellido: taborda
+telefono: 488123
+numero semestre: 3
+promedio acomulado: 3
+serial: gamer1263
+
+cedula: 1020104413
+nombre: thoma
+apellido: toro
+telefono: 488854
+numero semestre: 4
+promedio acomulado: 5
+serial: 159acer
